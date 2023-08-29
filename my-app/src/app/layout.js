@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="flex justify-center bg-green-400 h-12 items-center">
+        <div className="flex justify-center bg-green-400 h-12 items-center sticky top-0">
           <nav className="flex gap-6">
             <Link href="/useState">
               <h1 className="hover:text-white">useState</h1>
