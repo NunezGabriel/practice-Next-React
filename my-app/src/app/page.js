@@ -8,6 +8,12 @@ export default function Home() {
         <p className="text-green-700 text-xl">
           please click any link to see a simple exercise solved
         </p>
+        <Image
+          className="mx-auto mt-4"
+          src={"/img/tuxy.gif"}
+          width={360}
+          height={360}
+        />
       </div>
     </>
   );
