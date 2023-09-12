@@ -24,8 +24,8 @@ export default function RootLayout({ children }) {
             <Link href="/useState">
               <h1 className="hover:text-white">useContext</h1>
             </Link>
-            <Link href="/useState">
-              <h1 className="hover:text-white">untitle</h1>
+            <Link href="/fetchNext">
+              <h1 className="hover:text-white">Fetch Next Test</h1>
             </Link>
             <Link href="/">
               <div className="p-4 bg-gray-800 h-4 flex justify-center items-center rounded-xl">
