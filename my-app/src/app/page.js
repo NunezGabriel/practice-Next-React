@@ -6,7 +6,7 @@ export default function Home() {
       <div className="mx-auto rounded-lg mt-12 text-center p-5 border-[3px] border-green-400 max-w-[500px] bg-gray-800">
         <h1 className="text-2xl text-white">WELCOME TO THIS PRACTICE</h1>
         <p className="text-green-700 text-xl">
-          please click any link to see a simple list of exercises solved
+          please click any link to see a simple list of exercises solved.
         </p>
         <Image
           className="mx-auto mt-4"
